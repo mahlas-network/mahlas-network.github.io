@@ -39,5 +39,7 @@ The risk/trust value of the creator is a measurement for the possible top limit 
 
 * Retirement fund :makes creators gain trust and totally refundable. Maybe in every task a creator can refund it directly with an option.
 * Mahlas project running costs tax : should be minimal, and should have level higher levels for Mahlas's which have higher revenue.
+    * Server cost / hosting etc.
+    * Domain name renewal
 * New artwork creation tax : This could be optionally decided in every Mahlas created.
 * Reproduction tax : Not decided yet! A tax to support reproduction of new Mahlas's.
