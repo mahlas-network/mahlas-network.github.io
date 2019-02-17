@@ -35,3 +35,9 @@ The risk/trust value of the creator is a measurement for the possible top limit 
 * A creator can re-enter the ecosystem anytime they want.
 * A creator can partially withdraw from the retirement fund which might effect their trust value.
 
+# Tax
+
+* Retirement fund :makes creators gain trust and totally refundable. Maybe in every task a creator can refund it directly with an option.
+* Mahlas project running costs tax : should be minimal, and should have level higher levels for Mahlas's which have higher revenue.
+* New artwork creation tax : This could be optionally decided in every Mahlas created.
+* Reproduction tax : Not decided yet! A tax to support reproduction of new Mahlas's.
