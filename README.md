@@ -1,5 +1,7 @@
 # mahlas
 
+Mahlas is an artwork, a collaborative art/artist creation framework.
+
 ## Current Stage
 
 Mahlas, is in pre-alpha stage.
