@@ -9,7 +9,7 @@ Mahlas, is in pre-alpha stage.
 * System
 * Interface
 * [Terminology](/parts/terminology.md)
-* [PatchWork](/parts/patchwork.md) - uncategorized content 
+* [PatchWork](/parts/uncategorized) - uncategorized content 
 
 ## Current Author(s)
 
