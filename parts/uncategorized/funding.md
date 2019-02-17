@@ -19,3 +19,19 @@ A system can start with three type of resources belief->work and belief->money.
 * Money available to invest.
 * Amount of trust needed
     
+# Trust / Risk of a creator
+
+A mahlas will trust a creator based on those variables:
+* Trust value of the referee
+* Based on the total value generated before.
+    * Every work generated will have a tax for retirement/trust fund.
+    * When retirement fund is used this value will be recalculated.
+
+The risk/trust value of the creator is a measurement for the possible top limit of the cost of a task they can apply for.
+
+# Retirement / Leaving the System / Resetting the Trust
+
+* A creator at any time can decide to leave the creating ecosystem.
+* A creator can re-enter the ecosystem anytime they want.
+* A creator can partially withdraw from the retirement fund which might effect their trust value.
+
