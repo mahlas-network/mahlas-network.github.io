@@ -1,5 +1,4 @@
-# Join the Creator / Maker / Producer Force
-
+# Become a Creator!
 * reference code
 * data from the shepherd
 * prioritize creation by time / location / work type / artist
