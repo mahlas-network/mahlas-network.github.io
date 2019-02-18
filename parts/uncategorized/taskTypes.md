@@ -21,9 +21,11 @@
   * location
 * information technologies
 * security (personal data)
+* Task categorzation
 * Task / time estimation
 * Task risk estimation : Some tasks might need to run in paralel because of high risk.
 * Cost calculation
   * Needs expertise for every field
 * Career Planning
 * Control tasks : Every task will have a control mechanism.
+* Quality Control
