@@ -50,12 +50,13 @@
 This is a list from created form  previous experiences
 
 * Text
-* Write a manifest for the exhibition
-	* Write 
+	* Write a manifest for the exhibition
+	* Translation
 * Spreadsheet
 	* Grade all the artworks
 * Image(s)
 	* Plan the exhibition (normally this should should not be an image)
+	* Graphic Design (posters etc.)
 * Video
 * Physical Work
 	* Go to the space and install the artworks
