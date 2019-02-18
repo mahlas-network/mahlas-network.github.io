@@ -22,7 +22,7 @@
   * location
 * information technologies
 * security (personal data)
-* Task categorization
+* Task classification
 * Task tagging (important stuff other than the category, subject of the work)
 * Task / time estimation
 * Task risk estimation : Some tasks might need to run in paralel because of high risk.
