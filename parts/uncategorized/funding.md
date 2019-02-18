@@ -29,6 +29,9 @@ A mahlas will trust a creator based on those variables:
 
 The risk/trust value of the creator is a measurement for the possible top limit of the cost of a task they can apply for.
 
+A referee can raise trust value of a referenced creator by landing some of its trust resources. *Probably referee must do it with a minimum cost.But that might create a problem for getting more creators, people might not want to reference so that system should favor referencing or at least have a policy for that. 
+
+
 # Retirement / Leaving the System / Resetting the Trust
 
 * A creator at any time can decide to leave the creating ecosystem.
