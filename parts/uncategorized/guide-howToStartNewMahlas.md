@@ -8,6 +8,14 @@
 * Possible funding systems or trust systems might be offered. The creator must choose one of them or create a new one.
 * Every Mahlas must have a whitepaper.
 
+Some other properties :
+* Name
+* Main language(s)
+* Locality : Will the artist be a local one or else.
+* Medium(s)
+* Creation speed
+* Characteristics
+
 # White Paper
 
 In a white paper:
