@@ -65,3 +65,18 @@ This is a list from created form  previous experiences
 	* Spread the call for the exhibition
 	* Find new creators
 * Complex Tasks
+
+# Atom Properties
+* Assigned to
+* Inspection assigned to
+* Management assigned to
+* Assigned Date
+* Due time
+* Status (defined / proposed / assigned / cancelled / worker cancelled / passed due date / finished)
+* Instance specific details
+* Completion Time
+* Rating
+* Worked Hours
+* Total payment
+* Payment status
+* Change Log
