@@ -14,13 +14,9 @@ It is assumed that it could be decomposed to atomic tasks.
 A task which could not be decomposed to smaller parts.
 It should be as short as possible and require minimum number of people.
 
-# Blueprint
+# White Paper
 
-A blueprint is created when a Mahlas is created.
-It consists
-* Name
-* Main language(s)
-* Locality : Will the artist be a local one or else.
-* Medium(s)
-* Creation speed
-* Characteristics
+A "White Paper" is created when a Mahlas is created.
+see [Mahlas Guide](/parts/uncategorized/guide-howToStartNewMahlas.md) for details.
+
+List of other words discussed : blueprint, manifest
