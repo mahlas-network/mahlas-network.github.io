@@ -8,6 +8,7 @@
 * Creativity Trigger : This tasks checks if a new art piece should be created based on the period defined in Mahlas Blueprint.
 * Press Relations : Checking visibility and media coverage
 * Communication : Handling e-mails or other requests
+* Improvement Trigger : This tasks are created with the request of Creators. Creators could suggest a better way of doing things which could need an infrastructure update.
 
 # Based on Creation Type
 
@@ -28,5 +29,10 @@
 * Cost calculation
   * Needs expertise for every field
 * Career Planning
+* Assigner : Person to assign people to tasks.
+* Execution Control / controls the execution of a long task
 * Control tasks : Every task will have a control mechanism.
 * Quality Control
+* In Mahlas communication *Sabiha Akman in Hayalimdeki Ev
+* Conflict Dilemma Solvers
+* Temporary Consultance
