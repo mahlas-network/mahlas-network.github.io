@@ -1,4 +1,5 @@
-* reference code
+* referees code
+* reference code : could we have different trust values for the references?
 * data from the shepherd
 * prioritize creation by time / location / creation type / artist
 * trust value
