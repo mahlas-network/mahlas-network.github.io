@@ -49,10 +49,10 @@
 This is a list from created form  previous experiences
 
 * Text
- * Write a manifest for the exhibition
- * Write 
+* Write a manifest for the exhibition
+	* Write 
 * Spreadsheet
- * Grade all the artworks
+	* Grade all the artworks
 * Image(s)
 	* Plan the exhibition (normally this should should not be an image)
 * Video
@@ -62,5 +62,4 @@ This is a list from created form  previous experiences
 	* Call related people and the space, communicate between them
 	* Spread the call for the exhibition
 	* Find new creators
-
 * Complex Tasks
