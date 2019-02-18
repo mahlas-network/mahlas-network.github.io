@@ -16,5 +16,11 @@
 * planning
 * location based tasks
 * human resources
+  * role distribution
+  * language
+  * location
 * information technologies
 * security (personal data)
+* Cost calculation
+  * Needs expertise for every field
+* Career Planning
