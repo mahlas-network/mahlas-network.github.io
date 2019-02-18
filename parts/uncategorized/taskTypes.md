@@ -43,6 +43,7 @@
 * Conflict Dilemma Solvers
 * Temporary Consultance
 * Task assignment response speed manager : How long a task request could be hold vefore asking someone else?
+* Freud control : This can be an issue if someone is using other peoples work and paying them less, acting like a man-in-the-middle. How can we detect this? And this could be positive if someone is not paying them less but helping them because they don't have access to computers etc.
 
 # Based on medium
 
