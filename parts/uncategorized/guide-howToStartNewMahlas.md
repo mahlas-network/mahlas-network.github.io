@@ -7,6 +7,7 @@
 * Every task done, decision made is a way to effect the Mahlas.
 * Possible funding systems or trust systems might be offered. The creator must choose one of them or create a new one.
 * Every Mahlas must have a whitepaper.
+* Every Mahlas will have a fitness function.
 
 Some other properties :
 * Name
