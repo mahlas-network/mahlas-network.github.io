@@ -8,7 +8,7 @@ It is a risk/reward system. *What is the risk/reward ratio and how will it get u
 
 A system can start with three type of resources belief->work and belief->money.
 * Someone might believe in the mahlas and can risk their time to invest. *That is what I'm doing now.*
-* Someone might believe in the system and can risk their money.
+* Someone might believe in the mahlas and can risk their money.
 * A previously created Mahlas can fund a new one. *Where will this surplus come form? Will we introduce a reproduction tax for the current Mahlas's?*
 
 #Atom cost / Atomic task cost
