@@ -46,3 +46,7 @@ A referee can raise trust value of a referenced creator by landing some of its t
     * Domain name renewal
 * New artwork creation tax : This could be optionally decided in every Mahlas created.
 * Reproduction tax : Not decided yet! A tax to support reproduction of new Mahlas's.
+
+# Penalty
+
+In case of task failure, retirement fund can be used for compensation. 
