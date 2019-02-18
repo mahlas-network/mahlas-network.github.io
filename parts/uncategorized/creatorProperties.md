@@ -5,3 +5,5 @@
 * task completation statistics
 * speed
 * quality of the creations
+* wage per hour / wage per minute
+* subjects interested in
