@@ -30,7 +30,7 @@ In a white paper:
 
 ## Short Examples
 
-* Cyberpunk lover, miniature artist, who is ok with the gopverment and aims to be visible in the news esp. newspapers
+* Cyberpunk lover, miniature artist, who is ok with the goverment and aims to be visible in the news esp. newspapers
 * An artist just wants to put pieces in a museum
 * A cheap Banksy knockoff
 * Social Media Bard who loves to perform under other people's feeds.
