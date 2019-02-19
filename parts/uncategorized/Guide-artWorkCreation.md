@@ -19,4 +19,4 @@
   * Step by step and paralel execution
   * Control
 * Review of the work and check if it fits the white paper.
-* Accounting
+* Accounting.
