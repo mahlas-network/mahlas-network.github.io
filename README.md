@@ -2,6 +2,10 @@
 
 Mahlas is an artwork, a collaborative art/artist creation framework.
 
+This work is licensed under CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
+
+[See this document for details](LICENSE.MD)
+
 ## Current Stage
 
 Mahlas, is in pre-alpha stage.
