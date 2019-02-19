@@ -7,7 +7,7 @@ Is there a cost for a new applied creator ? if so they can pay it to raise their
 * location could be gps coordinates
 * prioritize creation by time / location / creation type / artist
 * trust value
-* task completation statistics
+* task completion statistics
 * speed
 * quality of the creations
 * wage per hour / wage per minute
