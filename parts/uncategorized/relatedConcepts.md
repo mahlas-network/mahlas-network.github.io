@@ -2,3 +2,4 @@
 * Blockchain
 * DAPP
 * Sociocracy
+* Collective Pseudonym
