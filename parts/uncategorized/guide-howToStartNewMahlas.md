@@ -7,7 +7,7 @@
 * Every task done, decision made is a way to effect the Mahlas.
 * Possible funding systems or trust systems might be offered. The creator must choose one of them or create a new one.
 * Every Mahlas must have a whitepaper.
-* Every Mahlas will have a fitness function.
+* Every Mahlas must have a fitness function.
 
 Some other properties :
 * Name
@@ -20,13 +20,36 @@ Some other properties :
 # White Paper
 
 In a white paper:
-* Mahlas's medium or media should be designed.
-* Likes and dislike could be added
+* Mahlas's medium or media should be decided
+* Likes and dislikes of Mahlas could be added (for ex:This Mahlas hates bananas, loves cats)
 * Political views
 * Style of creation
-* Style of communication
+
 * Variety in time *This could effect every other option*
-* Reaction to populist art
+* Reaction to populism in art
+
+## Human Resources
+
+* Reference based joining
+* 2 references might be needed
+* Free to everyone
+* Relationship to other Mahlas's (inbound / outbound)
+
+## Communication
+Every mahlas could have a different rule set on how the creators communicate.
+
+* Fully decentralized
+* Semi decentralized (for ex:occasional meetings)
+* Centralized (same hub is used for creation, similar to classic art studios)
+
+## Economy
+
+### Wages
+
+* Minimum wage per hour
+* Maximum wage per hour
+* Fixed wage is possible if minimum wage is equal to maximum wage.
+* Wage based on where the creator lives. (for ex: city average costs could be used)
 
 ## Short Examples
 
