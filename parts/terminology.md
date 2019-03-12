@@ -20,3 +20,11 @@ A "White Paper" is created when a Mahlas is created.
 see [Mahlas Guide](/parts/uncategorized/guide-howToStartNewMahlas.md) for details.
 
 List of other words discussed : blueprint, manifest
+
+# Mahlas Framework
+
+The framework where mahlas's get created.
+
+# A Mahlas
+
+A mahlas may refer to a mahlas instance.
