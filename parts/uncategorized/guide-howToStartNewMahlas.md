@@ -53,6 +53,15 @@ Every mahlas could have a different rule set on how the creators communicate.
 
 # Short Examples
 
+## Real World Examples
+
+* Deniz Yılmaz
+* Banksy
+* Any Post-modern artist with a big studio
+* Aaron
+* The artist - [link](https://httpdot.net/)
+
+## Others
 * Cyberpunk lover, miniature artist, who is ok with the goverment and aims to be visible in the news esp. newspapers
 * An artist just wants to put pieces in a museum
 * A cheap Banksy knockoff
