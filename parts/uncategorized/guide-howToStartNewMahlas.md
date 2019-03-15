@@ -1,32 +1,32 @@
-* This should be a guide to start a new Mahlas based on real world examples.
-* This guide should be updated on the run.
-* Every Mahlas is a different feeling/algorithm/way to communicate.
-* Some Mahlas's could be similar to each other but just based on different localities.
-* Any Mahlas can have a speed of change. This will define how they might change in time.
-* Every Mahlas description is kind of a DNA and creators can be part of many Mahlas's.
-* Every task done, decision made is a way to effect the Mahlas.
-* Possible funding systems or trust systems might be offered. The creator must choose one of them or create a new one.
-* Every Mahlas must have a whitepaper.
-* Every Mahlas must have a fitness function.
+This document should be a guide about how to start a new Mahlas based on real world examples.
 
-Some other properties :
+
+# Description
+
+Every Mahlas is a different feeling/algorithm/way to communicate which should explained in its Whitepaper upon creation.
+A Whitepaper is similar to a DNA. Some Mahlas's could be similar to each other but just based on different localities.
+* Any Mahlas can have a speed of change which will define how they might change in time.
+* Creators interact and effect a Mahlas with every task they do or decision they make.
+
+# White Paper
+
+## Description
+
 * Name
 * Main language(s)
 * Locality : Will the artist be a local one or else.
 * Medium(s)
-* Creation speed
-* Characteristics
-
-# White Paper
-
-In a white paper:
 * Mahlas's medium or media should be decided
 * Likes and dislikes of Mahlas could be added (for ex:This Mahlas hates bananas, loves cats)
 * Political views
 * Style of creation
-
+* Creation speed
+* Characteristics
 * Variety in time *This could effect every other option*
 * Reaction to populism in art
+
+## Fitness Function
+
 
 ## Human Resources
 
@@ -51,7 +51,7 @@ Every mahlas could have a different rule set on how the creators communicate.
 * Fixed wage is possible if minimum wage is equal to maximum wage.
 * Wage based on where the creator lives. (for ex: city average costs could be used)
 
-## Short Examples
+# Short Examples
 
 * Cyberpunk lover, miniature artist, who is ok with the goverment and aims to be visible in the news esp. newspapers
 * An artist just wants to put pieces in a museum
