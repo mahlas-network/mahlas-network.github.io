@@ -8,6 +8,16 @@ This section is planned to give ideas why Mahlas framework might worth something
 * + security
 * - egocentric
 
+# Related Concepts
+
+* TAZ
+* Blockchain
+* DAPP
+* Sociocracy
+* Collective Pseudonym
+* Distributed Identitiy : [link](https://aa.httpdot.net/)
+* [p2p governance](http://wiki.p2pfoundation.net/Category:Peergovernance)
+
 # Etymology
 
 * Mahlas is an arabic word.
