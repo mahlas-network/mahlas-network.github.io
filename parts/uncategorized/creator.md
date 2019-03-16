@@ -1,3 +1,4 @@
+* A creator can create for any Mahlas they want if that Mahlas let them.
 
 # Properties
 * referees code : 
