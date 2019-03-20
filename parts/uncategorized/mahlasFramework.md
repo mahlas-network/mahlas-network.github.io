@@ -2,11 +2,12 @@
 
 This section is planned to give ideas why Mahlas framework might worth something.
 
-* + transparency
-* + diversity
-* + evolvable
-* + security
-* - egocentric
+* transparent
+* diverse
+* evolvable
+* secure
+* allocentric
+* non-anthropocentric
 
 # Related Concepts
 
