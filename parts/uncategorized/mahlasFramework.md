@@ -14,6 +14,7 @@ This section is planned to give ideas why Mahlas framework might worth something
 * Blockchain
 * DAPP
 * Sociocracy
+* micro tasks
 * Collective Pseudonym
 * Distributed Identitiy : [link](https://aa.httpdot.net/)
 * [p2p governance](http://wiki.p2pfoundation.net/Category:Peergovernance)
