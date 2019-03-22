@@ -62,6 +62,9 @@ Every mahlas could have a different rule set on how the creators communicate.
 * Fixed wage is possible if minimum wage is equal to maximum wage.
 * Wage based on where the creator lives. (for ex: city average costs could be used)
 
+### Documentation
+Every mahlas can decide how the process will be reported and to whom.
+
 # Short Examples
 
 ## Real World Examples
