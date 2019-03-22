@@ -50,7 +50,6 @@ This feels like one person has to create a Mahlas oneself but this is not the ca
 * why would you create a Mahlas?
 
 * location based
-* conception based
 * language based
 
 ## Browse the artists 
