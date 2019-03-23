@@ -81,6 +81,7 @@ Every mahlas could have a different rule set on how the creators communicate.
 
 For ex: 
 * Decentralized mobile app, destroyed when no one has a copy of it.
+* Produced device with assembily instructions on how to be copied.
 
 ## Execution
 
