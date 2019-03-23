@@ -19,3 +19,6 @@ Is there a cost for a new applied creator ? if so they can pay it to raise their
   * done
   * doing
 * mahlas list
+* experience
+ * subjects
+
