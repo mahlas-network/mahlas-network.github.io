@@ -79,5 +79,5 @@ Every mahlas can decide how the process will be reported and to whom.
 * An artist just wants to put pieces in a museum
 * A cheap Banksy knockoff
 * Social Media Bard who loves to perform under other people's feeds.
-
+* A TAZ artist which changes everything (creators, name, location etc.) after every creation 
 
