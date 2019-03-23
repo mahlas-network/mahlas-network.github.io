@@ -29,6 +29,7 @@ Every task is accepted as an atom, an if it is complex the first task is to atom
 * Task tagging (important stuff other than the category, subject of the work)
 * Task / time estimation
 * Task risk estimation : Some tasks might need to run in paralel because of high risk.
+* Translation
 * Cost calculation
   * Needs expertise for every field
   * Cost of controllers
@@ -40,7 +41,7 @@ Every task is accepted as an atom, an if it is complex the first task is to atom
 * Execution Control / controls the execution of a long task
 * Control tasks : Every task will have a control mechanism.
 * Assignment execution time limit controller
-* If an assignment is not done in the planned time, how should the system should react ? Extra Time ? If so how much ?
+	* If an assignment is not done in the planned time, how should the system should react ? Extra Time ? If so how much ?
 * Quality Control
 * In Mahlas communication *Sabiha Akman in Hayalimdeki Ev
 * Conflict Dilemma Solvers
