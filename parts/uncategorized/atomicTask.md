@@ -10,6 +10,7 @@ Every task is accepted as an atom, an if it is complex the first task is to atom
 * Creativity Trigger : This tasks checks if a new art piece should be created based on the period defined in Mahlas Blueprint.
 * Press Relations : Checking visibility and media coverage
 * Communication : Handling e-mails or other requests
+* Maintenance Trigger : If a problem is reported
 * Improvement Trigger : This tasks are created with the request of Creators. Creators could suggest a better way of doing things which could need an infrastructure update.
 
 # Based on Creation Type
