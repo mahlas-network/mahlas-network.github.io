@@ -77,6 +77,9 @@ For ex:
   * Extra Time ? If so how much ? 
   * Assignment Time Estimation Protocol
     * X number of people is asked to estimate the assignments time cost.
+* Budget
+  * Budget Estimation Protocol
+    * X number of people is asked to estimate the assignments budget.
 * Creator selection system
   * (PE) Prioritizing experienced member may - Lower the risk of assignment failure
   * (PI) Prioritizing inexperienced member may - Develop new members
@@ -149,6 +152,14 @@ In case of task failure, retirement fund can be used for compensation.
 * Every mahlas can decide how the process will be reported and to whom.
 * Will the Mahlas have a memory? If so how?
 
+### Maintenance
+
+* How will the system be maintained?
+* Who will do it? Is it fixed?
+* Maintenance Task Creation
+	* Based on requests to improve the work system
+	* System will gather feedbacks on all steps
+ 
 
 
 # Short Examples
