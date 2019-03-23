@@ -49,7 +49,19 @@ This list is not fixed. Some parts could be mandatory, some could be optional, a
 * Relationship to other Mahlas's (inbound / outbound)
 * Starting people (this could be assigned in the beginning)
 * Does it have a board? (if there is a fixed number of people which has a different role, then there is a board)
+	* Can the board change?
+	* Does it have a trust value?
+	* Does individuals have a trust value?
+	* Does it have roles? (Secretary / Counselor / Observer)
+	* Can a board member suggest new potential board members?
+	* Can a board member suggest expulsion of another board member?
+	* Can a board member resign?
+	* Can Mahlas suggest new potential board members?
+	* Can Mahlas suggest expulsion vote for board members?
+	* Can a board member suggest/force Mahlas a new artwork?
+	* Can a board member suggest a creator?
 
+	
 ### Approval of a real person
 * If needed so how much does it cost ?
 * Freud check - *can we check really if it is that person or someone else pretending to be ?
