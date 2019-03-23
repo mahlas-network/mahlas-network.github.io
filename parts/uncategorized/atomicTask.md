@@ -1,3 +1,5 @@
+Every task is accepted as an atom, an if it is complex the first task is to atomize itself and create more atoms.
+
 # Based on Time
 
 ## One Time Tasks
