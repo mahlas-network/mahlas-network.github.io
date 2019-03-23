@@ -164,6 +164,8 @@ In case of task failure, retirement fund can be used for compensation.
 
 ### Documentation
 
+Documentation could be needed for press, accounting, transparency or for other reasons.
+
 * Every mahlas can decide how the process will be reported and to whom.
 * Will the Mahlas have a memory? If so how?
 
