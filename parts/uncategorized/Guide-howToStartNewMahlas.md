@@ -8,7 +8,6 @@ A Whitepaper is similar to a DNA. Some Mahlas's could be similar to each other b
 * Any Mahlas can have a speed of change which will define how they might change in time.
 * Creators interact and effect a Mahlas with every task they do or decision they make.
 * Every decision of a Mahlas could have chance factors included.
-* ? Could Instant Mahlas's be created? Create, make an artwok, dissappear.
 
 
 # White Paper
