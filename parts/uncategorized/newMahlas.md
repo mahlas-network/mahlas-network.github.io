@@ -51,6 +51,11 @@ Every mahlas could have a different rule set on how the creators communicate.
 * Semi decentralized (for ex:occasional meetings)
 * Centralized (same hub is used for creation, similar to classic art studios)
 
+### Possible Tools for Communication
+
+For ex: 
+* Decentralized mobile app, destroyed when no one has a copy of it.
+
 ## Economy
 
 ### Funding
@@ -110,7 +115,11 @@ In case of task failure, retirement fund can be used for compensation.
 
 
 ### Documentation
-Every mahlas can decide how the process will be reported and to whom.
+
+* Every mahlas can decide how the process will be reported and to whom.
+* Will the Mahlas have a memory? If so how?
+
+
 
 # Short Examples
 
