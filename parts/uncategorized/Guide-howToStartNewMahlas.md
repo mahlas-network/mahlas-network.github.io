@@ -4,11 +4,7 @@ This document should be a guide about how to start a new Mahlas based on real wo
 # Description
 
 Every Mahlas is a different feeling/algorithm/way to communicate which should explained in its Whitepaper upon creation.
-A Whitepaper is similar to a DNA. Some Mahlas's could be similar to each other but just based on different localities.
-* Any Mahlas can have a speed of change which will define how they might change in time.
-* Creators interact and effect a Mahlas with every task they do or decision they make.
-* Every decision of a Mahlas could have chance factors included.
-
+A Whitepaper is similar to a DNA. Some Mahlas's could be similar to each other but just based on different localities. Creators interact and effect a Mahlas with every task they do or decision they make.
 
 # White Paper
 
@@ -25,6 +21,7 @@ A Whitepaper is similar to a DNA. Some Mahlas's could be similar to each other b
 * Creation speed
 * Characteristics
 * Variety in time *This could effect every other option*
+* Chance factor *This could effect every other option*
 * Reaction to populism in art
 
 ## Fitness Function
