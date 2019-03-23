@@ -44,9 +44,16 @@ This list is not fixed. Some parts could be mandatory, some could be optional, a
 * Reference based joining
 * 2 references might be needed
 * Free to everyone
+  * Any penalties?
+  * Should they pay for it?
 * Relationship to other Mahlas's (inbound / outbound)
 * Starting people (this could be assigned in the beginning)
 * Does it have a board? (if there is a fixed number of people which has a different role, then there is a board)
+
+### Approval of a real person
+* If needed so how much does it cost ?
+* Freud check - *can we check really if it is that person or someone else pretending to be ?
+
 
 ## Communication
 Every mahlas could have a different rule set on how the creators communicate.
@@ -59,6 +66,25 @@ Every mahlas could have a different rule set on how the creators communicate.
 
 For ex: 
 * Decentralized mobile app, destroyed when no one has a copy of it.
+
+## Execution
+
+* Conflict Dilemma solving style
+* Task atomizing
+* Control mechanism for tasks
+* Time management
+  * If an assignment is not done in the planned time, how should the system should react ?
+  * Extra Time ? If so how much ? 
+  * Assignment Time Estimation Protocol
+    * X number of people is asked to estimate the assignments time cost.
+* Creator selection system
+  * (PE) Prioritizing experienced member may - Lower the risk of assignment failure
+  * (PI) Prioritizing inexperienced member may - Develop new members
+
+### Assignment Agencies
+	
+For ex: One person could handle assignments of other people, do not register them, be a member as a team. This might create problems, the fee might go to some people, we can call this “workflow tunneling”. This has some advantages for newcomers, like old people who can not use computer etc.
+
 
 ## Economy
 
