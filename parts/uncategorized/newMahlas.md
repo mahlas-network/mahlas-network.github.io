@@ -30,6 +30,9 @@ This list is not fixed. Some parts could be mandatory, some could be optional, a
 
 * Self Sustainability
    * Human Resources
+   	* Total number of creators
+	* Diversity of creators based on task types
+	* Total and distribution trust of creators
    * Funding
    * Health (attacks on the system)
 * Fame
