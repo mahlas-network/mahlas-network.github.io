@@ -29,11 +29,15 @@ A Whitepaper is similar to a DNA. Some Mahlas's could be similar to each other b
 This list is not fixed. Some parts could be mandatory, some could be optional, at the end there should be a mathematical formula.
 
 * Self Sustainability
+   * Human Resources
+   * Funding
+   * Health (attacks on the system)
 * Fame
 * Fame Quality *How will we calculate this?
 * Visiblity compared to Local Politicians
 * Creators statisfaction *How will this be calculated*
 * Creators revenue
+
 
 ## Human Resources
 
