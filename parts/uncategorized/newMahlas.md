@@ -41,6 +41,8 @@ This list is not fixed. Some parts could be mandatory, some could be optional, a
 * 2 references might be needed
 * Free to everyone
 * Relationship to other Mahlas's (inbound / outbound)
+* Starting people (this could be assigned in the beginning)
+* Does it have a board? (if there is a fixed number of people which has a different role, then there is a board)
 
 ## Communication
 Every mahlas could have a different rule set on how the creators communicate.
