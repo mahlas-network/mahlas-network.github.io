@@ -98,6 +98,7 @@ For ex:
 * Creator selection system
   * (PE) Prioritizing experienced member may - Lower the risk of assignment failure
   * (PI) Prioritizing inexperienced member may - Develop new members
+*  Task Assignments Procedure
 
 ### Assignment Agencies
 	
