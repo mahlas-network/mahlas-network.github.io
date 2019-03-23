@@ -80,3 +80,12 @@ This is a list from created form  previous experiences
 * Total payment
 * Payment status
 * Change Log
+
+
+# Atom cost / Atomic task cost
+
+* Calculated cost of a task based on external data. How much would it cost normally?
+* Possible cost in the system based on people demand.
+
+* Money available to invest.
+* Amount of trust needed
