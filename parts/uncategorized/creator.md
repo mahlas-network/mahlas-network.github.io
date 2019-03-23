@@ -22,3 +22,10 @@ Is there a cost for a new applied creator ? if so they can pay it to raise their
 * experience
  * subjects
 
+# Main Roles
+
+*	Finance 
+*	Planning
+*	Task Type/Subject Management
+*	Execution
+
