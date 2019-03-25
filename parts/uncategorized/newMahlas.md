@@ -3,7 +3,7 @@ This document should be a guide about how to start a new Mahlas based on real wo
 
 # Description
 
-Every Mahlas is a different feeling/algorithm/way to communicate which should explained in its Whitepaper upon creation.
+Every Mahlas is a different feeling/algorithm/way to communicate which should be explained in its Whitepaper upon creation.
 A Whitepaper is similar to a DNA. Some Mahlas's could be similar to each other but just based on different localities. Creators interact and effect a Mahlas with every task they do or decision they make.
 
 # White Paper
