@@ -17,7 +17,7 @@ It should be as short as possible and require minimum number of people.
 # White Paper
 
 A "White Paper" is created when a Mahlas is created.
-see [Mahlas Guide](/parts/uncategorized/guide-howToStartNewMahlas.md) for details.
+see [Mahlas Guide](/parts/uncategorized/newMahlas.md) for details.
 
 List of other words discussed : blueprint, manifest
 
