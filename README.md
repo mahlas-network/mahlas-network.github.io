@@ -24,6 +24,7 @@ Bager Akbay
 ### Contributor(s)
 
 * Ebru Yetişkin
+* Gültekin Boyraz
 * Mine Kaplangı
 * Serhat Demirhan
 * [Onur Özgür Çakır](https://github.com/e0i)
