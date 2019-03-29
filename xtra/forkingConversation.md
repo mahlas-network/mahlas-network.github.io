@@ -8,6 +8,8 @@ In simple terms, Mahlas is a way of creating art together.
 
   * **peer :** so, how does it differ from other modes of creating art together? does it differ from existing models? if so, how?
 
+  * **bager :** 
+  
 **peer :** you have  created a repository on github and uploaded the first draft text, what i would call the protocol for the work. how will it work and how are you planning to schedule the rest of the process? what will the further stages be?
 
 **bager :** I wanted to be more transparent on the process, and create less possible space for myself to prevent self-speculation. That's why I want almost everything (just considering other peoples privacy) to be public. I will just continue to add things that I have thought, and history of the repository will show how the project changes in time.
@@ -17,6 +19,8 @@ Every part will be public, after the framework is at least a bit clear, I will s
 Being public also pushes me to continue the project which shows that I have a strong barrier I have to fight. I think that is just about embracing the unknown but doing it in a nice way. That is so hard for me, I am trying to be as non-anthropomorphic as I can but still trying to keep the artistic performance alive. I know this process is the performance. Every key stroke, push, pull, commit is a part of it.
 
   * **peer :** you emphasized the importance of the process for you and see it as a performance and as far as i understand, you developed this approach to art during the journey of deniz yilmaz project. art as a process is also an important concept in art. buy usually the process part is usually hidden from the audience and it is featured as a myth, as a part of the discourse created around the persona of the artist. the artists usually do not share the process themselves but it is contextualized by the critics. and even if the artist shares it first hand, it is not as "public" and "transparent" as in the example of mahlas. how mahlas works, the development of the work on github, which is maybe itself the real aesthetics of the work, is not made possible only through the information technologies, especially the internet, but also through a particular approach to this medium, which is honest to its nature. probably the first and maybe still the most succesful implementation of this approach, besides wikipedia of course, is linux kernel development model. git software, which is what github is built on, was developed by linus torvalds to deal with organization of the massive collaboration/contributions to development of linux kernel. torvalds is probably the first person who made use of the real potential of inernet by choosing to develop it as a peer production on internet. even though we can say that the foundation of peer production model is the gnu project and free softwate movement started by richard stallman, i would argue that, they did lack the effective use of internet back then which lead to the forking of the movement under the name "open source movement" through the success of linux kernal project which makes use of the communication and collaboration potential of the internet. gnu project remained "closed circuit" in the early internet age in comparasion to how linux kernel is developed and eric raymond criticized gnu project's model through cathedral/bazaar analogy, which has received positive feedback and led the way to forking of the movement. however, the open source movement and torvalds himself approach this issue as a practical solution for developing better software through effective colloboration of a large community and what matters more to me is the politics of this development model, which was put perfectly by stallman and free software movement. if internet was the technical dimension of the success of linux development model, it was the copyleft hack introduced with gnu general public license (gnu gpl) which constitutes the political dimension of linux kernel development, by regulating the property relations of such a project being developed through the collaboration of many people. torvalds also admits that his best move was to release the code for linux kernal under gun gpl but rest of his politics do differ a lot form that of free software. even though the linux kernal development project uses git for coordinating the development, making all the process public and transparent, they focus on the "quality" of the outcome. your approach in mahlas differs from this fundemantally by highlighting the process itself. this approach is probably something unique to art because of its potential to exist independent of other relation models which dominate our life. would you like to elaborate more on technical and political aesthetics of choosing such an approach? if this process is the artwork itself, what is the ideal exhibition method of this work. or, can we say that, it is already being exhibited as an artwork? if so, what does it mean for the instituion of art; the art world? is it ready to understand and find ways to communicate such an art form?
+  
+  * **bager :** 
 
 **peer :** how do you imagine the journey of the work? how do you think people will react and relate to it during this process and once it is finished? how do you imagine it being public? in exhibitions? how should it be exhibited? what will it be in 10 years?
 
@@ -28,6 +32,8 @@ Ten years is impossible to guess for me, I think in one year we will see some ou
 
   * **peer :** you said, "I seriously doubt if people will use it". does it mean that it will not work as an artwork unless people "use" it? does it need to have practical outcomes? do you see it as a "tool" rather than an artwork, or, does it need to be used by the people to function as an artwork, or in general, do you think that an artwork should have a function, like a tool, or do you think it can exist by being "useless"?
 
+  * **bager :** 
+
 **peer :** how do you read this work? what are your personal references and motivations? how excited are you about it now?
 
 **bager :** It is just my reflection on how the world is changing, it is a reaction which is not controlled. My starting points are very simple and  familiar to most of the people around me. I am trying to understand the world politics, I dream about how I want to produce, live, I also include my daughters dreams, every comment she makes about the world is very important to me, I took them as serious as I can. 
@@ -36,6 +42,7 @@ And yes, I am a bit too much excited about it.
 
   * **peer :** how do you think the world is changing? how do you understand it? in fact i am asking the points where you think your understanding and approach differs from other people you know? what excites you about your approach?
 
+  * **bager :** 
 
 **peer :** could you also tell me about other things that occupy your mind these days? what else will you be working/thinking on while you develop this work further?
 
