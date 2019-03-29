@@ -42,7 +42,7 @@ And yes, I am a bit too much excited about it.
 
   * **peer :** how do you think the world is changing? how do you understand it? in fact i am asking the points where you think your understanding and approach differs from other people you know? what excites you about your approach?
 
-  * **bager :** 
+  * **bager :** If I could talk or write about this I would not do art :) I work with young people, kids, from age 3 to 15. I see a pattern on how they see the world and there is another pattern which grown ups have. These two patterns are totally different. It is like possible dialectics vs current dialectic and I see a war there, a war where young people suffer while grown ups trying to save the world. I think the fight is between generations not countries, religions or companies. That is where I observe about change.
 
 **peer :** could you also tell me about other things that occupy your mind these days? what else will you be working/thinking on while you develop this work further?
 
