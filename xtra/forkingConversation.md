@@ -32,7 +32,7 @@ Ten years is impossible to guess for me, I think in one year we will see some ou
 
   * **peer :** you said, "I seriously doubt if people will use it". does it mean that it will not work as an artwork unless people "use" it? does it need to have practical outcomes? do you see it as a "tool" rather than an artwork, or, does it need to be used by the people to function as an artwork, or in general, do you think that an artwork should have a function, like a tool, or do you think it can exist by being "useless"?
 
-  * **bager :** 
+  * **bager :** No, no, nothing related. To talk about something new was never easy, and in a world full of professional speculators/politicians it is even harder. This method is probably how I build the foundation of an artwork. I have to build it in a uniq way so that I can make my own speculation. When I first published Deniz Yilmaz, it was something itself and it did not have an exact shape/meaning, so that I could start talking about it. It could be perceived easily but grab attention in a very ambiguous way. Mahlas can not be perceived yet. I have to make some uses of it which could communicate by itself. It is pretty ambigous and connected to the topics I want to talk but its lacking communication. OK, maybe I can wait a hundred years, and if someones sees something worth in this framework then it could create this effect, but come on, I do not do philosophy, I do art, I live to create the speculation, I read the philosophers, thinkers, I observe the streets and troll society so that they might also create relations with those thinkers and maybe create something more real.
 
 **peer :** how do you read this work? what are your personal references and motivations? how excited are you about it now?
 
