@@ -13,7 +13,7 @@ This section is planned to give ideas why Mahlas framework might worth something
 
 * TAZ
 * Blockchain
-* DAPP
+* Decentralized Autonomous Organization
 * Sociocracy
 * micro tasks
 * Collective Pseudonym
