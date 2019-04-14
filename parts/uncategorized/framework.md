@@ -20,6 +20,11 @@ This section is planned to give ideas why Mahlas framework might worth something
 * Distributed Identitiy : [link](https://aa.httpdot.net/)
 * [p2p governance](http://wiki.p2pfoundation.net/Category:Peergovernance)
 
+## Similar Platforms
+
+* [colony.io](http://colony.io)
+* [daostack.io](https://daostack.io/)
+
 # Etymology
 
 * Mahlas is an arabic word.
