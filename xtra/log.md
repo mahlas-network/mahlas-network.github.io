@@ -31,11 +31,14 @@ Therefore I decided to take logs here. I hope this can continue. I will record s
 * Felt shy when I saw my name on the book cover. I will get through it in some days.
 * Posted about dao on Facebook to see if any friends also reading about them.
 * Started reading [The Tao of The Dao](https://guide.taoofthedao.org/)
+* Started reading [daotalks](https://daotalk.org)
+* Started reading [Decentralized Thriving](https://daostack.io/ebook/decentralized_thriving.pdf)
 
 # 20190416
 
 * Mine posted about the book event, that's [image](https://www.facebook.com/events/2342962532590156/) I saw on the book.
-* Started writing samples of organization code
+* Started writing [samples of organization code](/xtra/OrganizationCodes.md)
+* Reading some articles on medium
 
 # 20190417
 
