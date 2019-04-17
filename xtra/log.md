@@ -1,7 +1,7 @@
 # Foreword 
 
 I started using github just to record the creation process of Mahlas in detail, but I have figured out this is pushing me to be formal or at least awareness of being watched creates pressure for stability which is against the whole concept of creation.  
-Therefore I decided to take logs here. I hope this can continiue. I will record some findings, readings  and some feelings. I will not spell check here, feel free to ignore or correct. This file started with Ebru's push.
+Therefore I decided to take logs here. I hope this can continiue. I will record some findings, readings  and some feelings. I will not spell check here, feel free to ignore or correct. This file started with Ebru asking me "what are you doing" and me not be able to answer properly.
 
 
 # 20190412
