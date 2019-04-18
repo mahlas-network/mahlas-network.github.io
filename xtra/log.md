@@ -44,3 +44,6 @@ Therefore I decided to take logs here. I hope this can continue. I will record s
 
 * Started the log (this file). I am happy to take notes here, but I am not sure if I can do it regularly.
 
+# 20190418
+
+* Joined Polkadot Istanbul Workshop (Build Your Own Blockchain with Substrate)
