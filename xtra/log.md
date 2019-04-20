@@ -47,3 +47,8 @@ Therefore I decided to take logs here. I hope this can continue. I will record s
 # 20190418
 
 * Joined Polkadot Istanbul Workshop (Build Your Own Blockchain with Substrate)
+
+# 20190419
+
+* Contacted [Blockchain Turkey Platform](https://bctr.org/en/)
+* Read Control Rooms
