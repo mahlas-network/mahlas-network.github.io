@@ -1,5 +1,7 @@
 # forking conversation: peer and bager akbay on mahlas
 
+  **this file is paused, we continue the [conversation here](https://github.com/forkingPeer/forkingConversationOnMahlas/blob/master/forkingConversationOnMahlas.md) for some techincal reasons. This file will be updated when the conversation is over.**
+
 **peer :** could you tell me about your new work, mahlas,  you have recently started working on? 
 
 **bager :** I do not know much about what I am doing and why I am doing it. It is more like a feeling rather than an idea but I will do my best to explain it. After "Deniz Yılmaz", it became more clear that I enjoy the process a lot more than the result, I can even say that I am not interested in the result at all, I do not believe in it. Ok, there is a history of things we have done but even it changes everytime we talk about but that's all there is nothing more. So I started to dive more into the process of Deniz Yılmaz and Mahlas is a way to make this more public. It is about how we made a community school, it is about how I am trying prevent earning money from art, it is about how I can stand the political change in local and in the world, it is about weirdos, queers, monsters, it is about not playing the game but introducing/experimenting a new one.
