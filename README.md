@@ -7,7 +7,7 @@ As artists who start this experiment, we believe that decentralization and auton
 While exploring the boundaries of non-anthropocentric existence we value artists and hybrids.
 
 ## Vision
-Mahlas is an attempt to strengthen artists, art creation process and the art scene. It is architected to support collaboration without borders, decentralization, autonomy and diversity. Core values and principles are transparency, producing copyleft, allocentric, forkable, non-anthropocentric and temporal works.
+Mahlas is an attempt to strengthen artists, art creation processes and the art scene. It is architected to support, collaboration without borders, decentralization, autonomy and diversity. Core values and principles are transparency, producing copyleft, allocentric, forkable, non-anthropocentric and temporal works.
 
 ## Mission
 * To create a platform for artistic expression.
