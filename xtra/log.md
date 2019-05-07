@@ -73,3 +73,7 @@ Therefore I decided to take logs here. I hope this can continue. I will record s
 * Starting to write two whitepapers simultaneously (Deniz Yılmaz / Invader Graffiti Artist Knock-off)
 * Physical meetings might create locality, to avoid that we need to start an online community.
 
+# 20190508
+
+* Started to plan a simple static website, planned to be launched today.
+* Announce methods and team communications methods are being discussed.
