@@ -65,7 +65,7 @@ Therefore I decided to take logs here. I hope this can continue. I will record s
 # 20190506
 
 * Vision and mission draft has been published
-* First physical meeting happened (wasn't planned) and decision was made to repeat this weekly. Emre, Evrim, Cansu, Alper, Hazal, Serhat, Halil, aizhan, Babe
+* First physical meeting happened (wasn't planned) and decision was made to repeat this weekly. Attendees : Emre, Evrim, Cansu, Alper, Hazal, Serhat, Halil, aizhan, Babe, Bager
 * Mahlas needs a presentation! It is very hard to talk about it.
 
 # 20190507
