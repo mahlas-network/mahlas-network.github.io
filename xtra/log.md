@@ -66,6 +66,7 @@ Therefore I decided to take logs here. I hope this can continue. I will record s
 
 * Vision and mission draft has been published
 * First physical meeting happened (wasn't planned) and decision was made to repeat this weekly.
+* Mahlas needs a presentation! It is very hard to talk about it.
 
 # 20190507
 
