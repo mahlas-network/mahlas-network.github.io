@@ -50,5 +50,25 @@ Therefore I decided to take logs here. I hope this can continue. I will record s
 
 # 20190419
 
-* Contacted [Blockchain Turkey Platform](https://bctr.org/en/)
+* Contacted [Blockchain Turkey Platform](https://bctr.org/en/) (not officially)
 * Read Control Rooms
+
+# 20190429
+
+* Meeting about Mahlas Communication Strategy
+
+# 20190502
+
+* Meeting about BCTR
+* Meeting about Mahlas financial support
+
+# 20190506
+
+* Vision and mission draft has been published
+* First physical meeting happened (wasn't planned) and decision was made to repeat this weekly.
+
+# 20190507
+
+* Starting to write two whitepapers simultaneously (Deniz Yılmaz / Invader Graffiti Artist Knock-off)
+
+
