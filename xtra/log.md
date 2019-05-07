@@ -71,5 +71,5 @@ Therefore I decided to take logs here. I hope this can continue. I will record s
 # 20190507
 
 * Starting to write two whitepapers simultaneously (Deniz Yılmaz / Invader Graffiti Artist Knock-off)
-
+* Physical meetings might create locality, to avoid that we need to start an online community.
 
