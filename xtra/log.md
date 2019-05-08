@@ -79,3 +79,9 @@ Therefore I decided to take logs here. I hope this can continue. I will record s
 * Announce methods and team communications methods are being discussed.
 * mahlas website will be a whitepaper generation site with proper tools and setting for the community to create whitepapers.
 * whitepapers with enough detail and support (social+financial) will be graduated to be implemented.
+
+
+# 20190509
+
+* launched mahlas.network
+* twitter, maillist, telegram announce list, discord channel opened
