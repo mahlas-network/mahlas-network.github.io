@@ -14,6 +14,38 @@ Mahlas is an attempt to strengthen artists, art creation processes and the art s
 
 *Mahlas does not and will not have a legal basis however it can be presented by various temporary bodies while performing.*
 
+## Communication
+
+<a href="https://twitter.com/mahlasnetwork"><i class="fab fa-twitter"></i></a>
+<a href="https://discord.gg/ZQdURSM"><i class="fab fa-discord"></i></a>
+<a href="https://t.me/mahlasnetwork"><i class="fab fa-telegram-plane"></i></a>
+
+<!---
+
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+</style>
+<div id="mc_embed_signup">
+<form action="https://network.us20.list-manage.com/subscribe/post?u=3c57bba18406eb9f6f6e156fe&amp;id=6fe579719d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe for updates</h2>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address </label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3c57bba18406eb9f6f6e156fe_6fe579719d" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+--->
+
 
 ## Current Stage
 
@@ -47,28 +79,3 @@ This work is licensed under CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 
 [See this document for license details](LICENSE.MD)
 
-<!---
-
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-</style>
-<div id="mc_embed_signup">
-<form action="https://network.us20.list-manage.com/subscribe/post?u=3c57bba18406eb9f6f6e156fe&amp;id=6fe579719d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Subscribe for updates</h2>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3c57bba18406eb9f6f6e156fe_6fe579719d" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
---->
