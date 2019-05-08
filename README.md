@@ -47,7 +47,7 @@ This work is licensed under CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 
 [See this document for license details](LICENSE.MD)
 
-'''
+<!---
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -74,4 +74,4 @@ This work is licensed under CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-'''
+--->
