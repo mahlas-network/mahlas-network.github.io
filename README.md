@@ -58,22 +58,6 @@ Mahlas, is in pre-alpha stage.
 * [Terminology](/parts/terminology.md)
 * [PatchWork](/parts/uncategorized) - uncategorized content
 
-## Creator(s)
-
-### Current Author(s)
-
-Bager Akbay
-
-### Contributor(s)
-
-* Ebru Yetişkin
-* [forkingPeer](https://github.com/forkingPeer)
-* Gültekin Boyraz
-* Mine Kaplangı
-* Serhat Demirhan
-* [Onur Özgür Çakır](https://github.com/e0i)
-* [Özgür Fırat Çınar](https://github.com/hiorws)
-* [Yavuzhan Karayiğit](https://github.com/yavuzhan)
 
 ## License
 
