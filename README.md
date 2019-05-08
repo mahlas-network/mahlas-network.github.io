@@ -1,7 +1,5 @@
 # mahlas
 
-Mahlas is an artwork, a collaborative art/artist creation framework.
-
 As artists who start this experiment, we believe that decentralization and autonomy can not be achieved on a static body therefore we embrace temporality and evolvability.  
 
 While exploring the boundaries of non-anthropocentric existence we value artists and hybrids.
