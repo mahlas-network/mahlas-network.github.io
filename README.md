@@ -22,7 +22,6 @@ Mahlas is an attempt to strengthen artists, art creation processes and the art s
 <a href="https://discord.gg/ZQdURSM"> target="_blank"<i class="fab fa-discord fa-2x"></i></a> 
 <a href="https://t.me/mahlasnetwork"> target="_blank"<i class="fab fa-telegram-plane fa-2x"></i></a>
 
-<!---
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -46,7 +45,7 @@ Mahlas is an attempt to strengthen artists, art creation processes and the art s
 </form>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
---->
+
 
 
 ## Current Stage
