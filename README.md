@@ -22,11 +22,8 @@ Mahlas is an attempt to strengthen artists, art creation processes and the art s
 <a href="https://discord.gg/ZQdURSM" target="_blank"> <i class="fab fa-discord fa-2x"></i></a> 
 <a href="https://t.me/mahlasnetwork" target="_blank"> <i class="fab fa-telegram-plane fa-2x"></i></a>
 
-
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-</style>
+ <style type="text/css"> #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; } </style>
 <div id="mc_embed_signup">
 <form action="https://network.us20.list-manage.com/subscribe/post?u=3c57bba18406eb9f6f6e156fe&amp;id=6fe579719d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
@@ -55,7 +52,7 @@ Mahlas, is in pre-alpha stage.
 * System
 * Interface
 * [Terminology](/parts/terminology.md)
-* [PatchWork](/parts/uncategorized) - uncategorized content
+* [PatchWork](https://github.com/mahlas-network/mahlas-network.github.io/tree/master/parts/uncategorized) - uncategorized content
 
 
 ## License
