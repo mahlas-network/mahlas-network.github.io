@@ -1,4 +1,4 @@
-As artists who start this experiment, we believe that decentralization and autonomy can not be achieved on a static body therefore we embrace temporality and evolvability.  
+As artists who start this experiment, we believe that decentralization and autonomy can not be achieved on a static body therefore we embrace temporality and evolvability.
 
 While exploring the boundaries of non-anthropocentric existence we value artists and hybrids.
 
@@ -15,7 +15,7 @@ Mahlas is an attempt to strengthen artists, art creation processes and the art s
 *Mahlas does not and will not have a legal basis however it can be presented by various temporary bodies while performing.*
 
 ## Communication
-
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
 <a href="https://twitter.com/mahlasnetwork"><i class="fab fa-twitter size: 2x"></i></a>
@@ -39,7 +39,7 @@ Mahlas is an attempt to strengthen artists, art creation processes and the art s
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    
+	</div>
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3c57bba18406eb9f6f6e156fe_6fe579719d" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
@@ -56,7 +56,7 @@ Mahlas, is in pre-alpha stage.
 * System
 * Interface
 * [Terminology](/parts/terminology.md)
-* [PatchWork](/parts/uncategorized) - uncategorized content 
+* [PatchWork](/parts/uncategorized) - uncategorized content
 
 ## Creator(s)
 
@@ -75,7 +75,7 @@ Bager Akbay
 * [Özgür Fırat Çınar](https://github.com/hiorws)
 * [Yavuzhan Karayiğit](https://github.com/yavuzhan)
 
-## License 
+## License
 
 This work is licensed under CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
 
