@@ -18,9 +18,9 @@ Mahlas is an attempt to strengthen artists, art creation processes and the art s
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
-<a href="https://twitter.com/mahlasnetwork"><i class="fab fa-twitter fa-2x"></i></a> 
-<a href="https://discord.gg/ZQdURSM"><i class="fab fa-discord fa-2x"></i></a> 
-<a href="https://t.me/mahlasnetwork"><i class="fab fa-telegram-plane fa-2x"></i></a>
+<a href="https://twitter.com/mahlasnetwork"> target="_blank"<i class="fab fa-twitter fa-2x"></i></a> 
+<a href="https://discord.gg/ZQdURSM"> target="_blank"<i class="fab fa-discord fa-2x"></i></a> 
+<a href="https://t.me/mahlasnetwork"> target="_blank"<i class="fab fa-telegram-plane fa-2x"></i></a>
 
 <!---
 
