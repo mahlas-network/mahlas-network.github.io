@@ -32,4 +32,4 @@ A mahlas may refer to a mahlas instance.
 # Believer
 
 An entity that supports/invests on a mahlas.
-List of other words discussed : supporter, fedayeen, backer, investor
+List of other words discussed : supporter, fedayeen, backer, investor, fellow, stakeholder
