@@ -1,12 +1,5 @@
-## Whitepaper
-- [colony.io Whitepaper](https://colony.io/whitepaper.pdf)
-- [DAOstack Whitepaper](https://daostack.io/wp/DAOstack-White-Paper-en.pdf)
-- [Aragon Whitepaper](https://github.com/aragon/whitepaper)
-
-## Forum
-- [daotalks](https://daotalk.org/)
-
 ## Book
+- [Decentralized Thriving](https://daostack.io/ebook/decentralized_thriving.pdf) 
 - [The Tao of the Dao](https://guide.taoofthedao.org/)
 
 ## Terminology
@@ -24,4 +17,12 @@
 - [Holographic consensus](https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c)
 - [Distributed Governance January Updates](https://medium.com/dgov/distributed-governance-january-updates-541228eceb5c)
 - [The General Theory of Decentralized Applications, Dapps](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
+
+## Forum
+- [daotalks](https://daotalk.org/)
+
+## Whitepaper
+- [colony.io Whitepaper](https://colony.io/whitepaper.pdf)
+- [DAOstack Whitepaper](https://daostack.io/wp/DAOstack-White-Paper-en.pdf)
+- [Aragon Whitepaper](https://github.com/aragon/whitepaper)
 
