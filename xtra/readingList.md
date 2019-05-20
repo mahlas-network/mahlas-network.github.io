@@ -1,4 +1,4 @@
-## Book
+## Books
 - [Decentralized Thriving](https://daostack.io/ebook/decentralized_thriving.pdf) 
 - [The Tao of the Dao](https://guide.taoofthedao.org/)
 
@@ -21,7 +21,7 @@
 ## Forum
 - [daotalks](https://daotalk.org/)
 
-## Whitepaper
+## Whitepapers
 - [colony.io Whitepaper](https://colony.io/whitepaper.pdf)
 - [DAOstack Whitepaper](https://daostack.io/wp/DAOstack-White-Paper-en.pdf)
 - [Aragon Whitepaper](https://github.com/aragon/whitepaper)
