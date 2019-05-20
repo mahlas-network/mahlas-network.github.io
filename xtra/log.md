@@ -85,3 +85,7 @@ Therefore I decided to take logs here. I hope this can continue. I will record s
 
 * launched mahlas.network
 * twitter, maillist, telegram announce list, discord channel opened
+
+# 20190520
+
+* [Reading list](/xtra/readingList.md) for newcomers has been created.
