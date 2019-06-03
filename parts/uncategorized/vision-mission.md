@@ -13,10 +13,8 @@ To establish a platform for creating organization blueprints.
 
 # Values
 
-As people who start this experiment, we believe that decentralization and autonomy can not be achieved on a static body therefore we embrace temporality and evolvability.  
-While exploring the boundaries of non-anthropocentric existence we value creators and hybrids.  
-Mahlas is architected to support, transparency, collaboration without borders and diversity.  
-Core values and principles are producing copyleft, allocentric, forkable, non-anthropocentric and temporal experiences.  
+As people who start this experiment, we believe that decentralization and autonomy can not be achieved on a static body therefore we embrace temporality and evolvability. While exploring the boundaries of non-anthropocentric existence we value creators and hybrids.  
+Mahlas is architected to support, transparency, collaboration without borders and diversity. Core values and principles are producing copyleft, allocentric, forkable, non-anthropocentric and temporal experiences.  
 
 
 
