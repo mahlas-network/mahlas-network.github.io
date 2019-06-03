@@ -89,3 +89,8 @@ Therefore I decided to take logs here. I hope this can continue. I will record s
 # 20190520
 
 * [Reading list](/xtra/readingList.md) for newcomers has been created.
+
+# 20190604
+
+* Things are developing slower then expected.
+* Current notes on [miro ](https://miro.com/app/board/o9J_kxHWYt8=/)
