@@ -94,3 +94,7 @@ Therefore I decided to take logs here. I hope this can continue. I will record s
 
 * Things are developing slower then expected.
 * Current notes on [miro ](https://miro.com/app/board/o9J_kxHWYt8=/)
+* Updated mission and vision.
+* Splitting current project in to [two projects on github](https://github.com/mahlas-network). Website and docs.
+* Social and tech teams should be created. Tech should work on the blockchain, daos and services. Social should continiue experiments.
+
